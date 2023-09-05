@@ -1,0 +1,31 @@
+{
+  "term": "Summer",
+  "year": "2023",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ibrahims-test-course-2"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ibrahims-test-course-2"
+  },
+  "course_title": "ibrahims-test-course2",
+  "course_description": "ibrahims-test-course2",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "110",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "ibrahims-test-course-2"
+  },
+  "learning_resource_types": [],
+  "site_uid": "056e1c6b-0050-4993-868d-274bf40e8687",
+  "site_short_id": "1001-ibrahim-test-course"
+}
